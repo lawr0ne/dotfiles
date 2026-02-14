@@ -11,6 +11,8 @@ input {
         natural-scroll
     }
     mouse {}
+
+    warp-mouse-to-focus
     focus-follows-mouse
 }
 
