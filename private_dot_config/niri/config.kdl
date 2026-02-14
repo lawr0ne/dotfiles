@@ -1,7 +1,7 @@
 input {
     keyboard {
         xkb {
-            layout "us,ru,ua,pl"
+            layout "ru,ua,pl"
             options "grp:alt_shift_toggle,compose:ralt,ctrl:nocaps"
 
             // If this section is empty, niri will fetch xkb settings
