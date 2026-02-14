@@ -2,7 +2,7 @@ input {
     keyboard {
         xkb {
             layout "us,ru,ua,pl"
-            options "grp:alts_toggle,compose:ralt,ctrl:nocaps"
+            options "grp:alt_shift_toggle,compose:ralt,ctrl:nocaps"
 
             // If this section is empty, niri will fetch xkb settings
             // from org.freedesktop.locale1. You can control these using
