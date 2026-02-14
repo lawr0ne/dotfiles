@@ -100,8 +100,9 @@ layout {
         inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
 
-    // You can also add a border. It's similar to the focus ring, but always visible.
-    border { off }
+    border {
+        off
+    }
 
     // You can enable drop shadows for windows.
     shadow {
